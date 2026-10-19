@@ -23,15 +23,5 @@
     "file": "hub/hub-2.14.4-std.bin",
     "sha256": "2febf148f187a05fb8090010f525067b915fa2ff1ab840908022b4fd21f459d7",
     "size": 1445888
-  },
-  "hub-2.14.5-std": {
-    "file": "hub/hub-2.14.5-std.bin",
-    "sha256": "95f996bdc9613992d18d3a69381d3d828aa5cc25c4bc3e556f272eec8d6fde25",
-    "size": 1445888
-  },
-  "hub-2.14.6-std": {
-    "file": "hub/hub-2.14.6-std.bin",
-    "sha256": "feac55e5c9e96953338eff8dc88449fa8ee5e83ef7ce8bf75ee18aa950a7ff10",
-    "size": 1445888
   }
 }
