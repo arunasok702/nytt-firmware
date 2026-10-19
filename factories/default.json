@@ -1,3 +1,4 @@
+3045022100ee34905a9ee8d0b4b64e2b843e622ce2201f72c4a6117e4458a4730c706d9c09022060f39e2f6885e14697046bd36ed3fe7de6ba153cf84dac743ce11e6bb466317f
 {
   "exceptions": {},
   "factory_hash": "default",
@@ -9,7 +10,7 @@
     "variant": "std",
     "version": "2.14.0"
   },
-  "issued": "2026-10-19T14:44:05Z",
+  "issued": "2026-10-19T15:25:14Z",
   "nodes": {
     "envnode": {
       "board": "mini_v2_2",
@@ -25,6 +26,6 @@
     "percent": 10
   },
   "schema": 1,
-  "seq": 1,
+  "seq": 2,
   "window": ""
 }
