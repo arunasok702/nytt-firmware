@@ -1,0 +1,30 @@
+{
+  "exceptions": {},
+  "factory_hash": "default",
+  "hub": {
+    "board": "nytthub-s3-v1",
+    "sha256": "42361bdbbd001e359825d63b6c85170aaef3145c64179869d61f3947481716bf",
+    "size": 1445888,
+    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/hub/hub-2.14.0-std.bin",
+    "variant": "std",
+    "version": "2.14.0"
+  },
+  "issued": "2026-10-19T14:44:05Z",
+  "nodes": {
+    "envnode": {
+      "board": "mini_v2_2",
+      "sha256": "54d958b7446e1adaa4107fca23a5179f6591308a644492961c0c7c383e3c1390",
+      "size": 159879,
+      "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/envnode/envnode-3.3.0-std.bin",
+      "variant": "std",
+      "version": "3.3.0"
+    }
+  },
+  "rollout": {
+    "full_at": "2026-10-21T14:44:05Z",
+    "percent": 10
+  },
+  "schema": 1,
+  "seq": 1,
+  "window": ""
+}

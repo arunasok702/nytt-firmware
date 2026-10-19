@@ -1,0 +1,12 @@
+{
+  "envnode-3.3.0-std": {
+    "file": "envnode/envnode-3.3.0-std.bin",
+    "sha256": "54d958b7446e1adaa4107fca23a5179f6591308a644492961c0c7c383e3c1390",
+    "size": 159879
+  },
+  "hub-2.14.0-std": {
+    "file": "hub/hub-2.14.0-std.bin",
+    "sha256": "42361bdbbd001e359825d63b6c85170aaef3145c64179869d61f3947481716bf",
+    "size": 1445888
+  }
+}
