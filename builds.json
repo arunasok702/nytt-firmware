@@ -8,5 +8,10 @@
     "file": "hub/hub-2.14.0-std.bin",
     "sha256": "42361bdbbd001e359825d63b6c85170aaef3145c64179869d61f3947481716bf",
     "size": 1445888
+  },
+  "hub-2.14.1-std": {
+    "file": "hub/hub-2.14.1-std.bin",
+    "sha256": "2069c658d814f869f55a5b67e35c555a6812d54b43e23700d6441b61c797e6a0",
+    "size": 1445888
   }
 }
