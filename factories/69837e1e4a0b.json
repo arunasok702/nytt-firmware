@@ -1,31 +1,31 @@
-3045022100b7b4047f9d380e8f397ce1c8ce368796e98df6bceca2de25855be2a197e93f0502202f0ba75304efbf37d0aea782675189d5291ecb4cac88a8e00c500c75c7e702ac
+3045022100dbbfd8af77353c95ecf4ebdf9d9d1aaa87cfd9b1102d45b1096d11804ee1ff5e0220726326bdb229c7fed57477e963cbad173bc123d10324cbee1c1debbf82a3f440
 {
   "exceptions": {},
   "factory_hash": "69837e1e4a0b",
   "hub": {
     "board": "nytthub-s3-v1",
-    "sha256": "278012b25e4a82aa615bc2e703712995e0c7d84b5fddaadf9991b48bf3b75d30",
+    "sha256": "a5d6f4159db1ba6549cd2a91ac3917ad5224e58e1b675ced1362067485ae4a9b",
     "size": 1511424,
-    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/hub/hub-2.15.8-std.bin",
+    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/hub/hub-2.16.0-std.bin",
     "variant": "std",
-    "version": "2.15.8"
+    "version": "2.16.0"
   },
-  "issued": "2026-10-20T04:48:51Z",
+  "issued": "2026-10-20T06:22:35Z",
   "nodes": {
     "envnode": {
       "board": "mini_v2_2",
-      "sha256": "3a7aaff27852a8b2a6a119aeaf766a11a359f1bb22bb56256cbaf9cc51e3393a",
-      "size": 159931,
-      "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/envnode/envnode-3.3.3-std.bin",
+      "sha256": "8394aefb77b192c75ba0fda8de0126bffb748f6ff080cb1e81e02791c222d992",
+      "size": 160431,
+      "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/envnode/envnode-3.4.1-std.bin",
       "variant": "std",
-      "version": "3.3.3"
+      "version": "3.4.1"
     }
   },
   "rollout": {
-    "full_at": "2026-10-22T04:48:51Z",
+    "full_at": "2026-10-22T06:19:25Z",
     "percent": 100
   },
   "schema": 1,
-  "seq": 13,
+  "seq": 14,
   "window": ""
 }
