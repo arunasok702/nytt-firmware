@@ -1,16 +1,16 @@
-3046022100c28440b0a92321c6f99f9511f87c3e80220dcc4104edcb4008a50da53f956363022100a2a2a76c03117b99f8ed9d35196d5d6f997a70b4d381340b759e1b903573d9bd
+30440220320baa3ae57526146d4943b188b0ee3a69a2cbf5737c5200c7f69d307f8f0b5402207de934dbf306258f6894e7931ca4c1f1e9b2bd2c8219411e08571d64fe237ddd
 {
   "exceptions": {},
   "factory_hash": "69837e1e4a0b",
   "hub": {
     "board": "nytthub-s3-v1",
-    "sha256": "a3b20ed1c02687bccc04452aeb398317ac9f89168cf06d60e7cce1d703dc9031",
+    "sha256": "4c192758dda2a7cc92dd7e1b68edad4b35a0071e806a0f4d229be18ad138dcbc",
     "size": 1511424,
-    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/hub/hub-2.15.2-std.bin",
+    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/hub/hub-2.15.7-std.bin",
     "variant": "std",
-    "version": "2.15.2"
+    "version": "2.15.7"
   },
-  "issued": "2026-10-20T03:09:32Z",
+  "issued": "2026-10-20T03:45:26Z",
   "nodes": {
     "envnode": {
       "board": "mini_v2_2",
@@ -22,10 +22,10 @@
     }
   },
   "rollout": {
-    "full_at": "2026-10-22T03:09:32Z",
+    "full_at": "2026-10-22T03:45:26Z",
     "percent": 100
   },
   "schema": 1,
-  "seq": 11,
+  "seq": 12,
   "window": ""
 }
