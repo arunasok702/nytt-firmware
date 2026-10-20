@@ -1,4 +1,4 @@
-3046022100f6edcb1feb07283b32ecb3e399ea4c5f0c89e54676edddc7f85660b341e81333022100ef0f36e1694c22a4a6a85f645e33af1ebb235ebe621b04a0b1c8e5aa645bbcb8
+30460221009b538bc42101f701936d499b16b8c2bb993e9a7472ae95cea567960e868457cc022100a3e675f3e66f64e74c0102bd49a53c898a756c019574d8474e760f51469965b4
 {
   "exceptions": {},
   "factory_hash": "69837e1e4a0b",
@@ -10,15 +10,15 @@
     "variant": "std",
     "version": "2.15.1"
   },
-  "issued": "2026-10-19T17:08:41Z",
+  "issued": "2026-10-20T02:59:05Z",
   "nodes": {
     "envnode": {
       "board": "mini_v2_2",
-      "sha256": "2d26b47737ab042e88cd102b4f198b5284bc6c6d5f9b8d6a3a60abdf1039b2ec",
-      "size": 159883,
-      "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/envnode/envnode-3.3.1-std.bin",
+      "sha256": "3a7aaff27852a8b2a6a119aeaf766a11a359f1bb22bb56256cbaf9cc51e3393a",
+      "size": 159931,
+      "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/envnode/envnode-3.3.3-std.bin",
       "variant": "std",
-      "version": "3.3.1"
+      "version": "3.3.3"
     }
   },
   "rollout": {
@@ -26,6 +26,6 @@
     "percent": 100
   },
   "schema": 1,
-  "seq": 9,
+  "seq": 10,
   "window": ""
 }
