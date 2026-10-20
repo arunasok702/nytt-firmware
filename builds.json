@@ -87,5 +87,33 @@
         }
       ]
     }
+  },
+  "hub-2.15.8-std": {
+    "file": "hub/hub-2.15.8-std.bin",
+    "sha256": "278012b25e4a82aa615bc2e703712995e0c7d84b5fddaadf9991b48bf3b75d30",
+    "size": 1511424,
+    "usb": {
+      "app_offset": "0x10000",
+      "boot": [
+        {
+          "file": "usb/hub-2.15.8-std/bootloader.bin",
+          "offset": "0x0",
+          "sha256": "a536579f800b6fe00a9997c93c0f2450540f504ac10c1f32ee35fd177f966bb4",
+          "size": 22624
+        },
+        {
+          "file": "usb/hub-2.15.8-std/partition-table.bin",
+          "offset": "0x8000",
+          "sha256": "ace02503447d0f470692e65fa76002f2d77a92dc81cd3813d8aa66718d716da9",
+          "size": 3072
+        },
+        {
+          "file": "usb/hub-2.15.8-std/ota_data_initial.bin",
+          "offset": "0xe000",
+          "sha256": "7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f",
+          "size": 8192
+        }
+      ]
+    }
   }
 }
