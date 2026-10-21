@@ -1,38 +1,38 @@
-3046022100a18432d5f71df1315a9e3384d93c544b52e645f08292574a1d1a878895094eab022100e7ff85cd871da416b76669546f6817a48ed92298e4c294d502cc54c49f27c975
+304402201cadc17b49bb5ff84814d996ab48b972e225668fe2e573abf03f5f8b5c8d97d402204ff06562853dc7937bb82ea2f26cb1530b5c771fe4908f58264859f36d1ea50b
 {
   "channel": "dev",
   "hub": {
     "board": "nytthub-s3-v1",
-    "file": "dev/hub/hub-2.17.2.bin",
-    "sha256": "18cb23d3cb06dd113e6a975c5d17686c569de8bd44f521c8107350cc15b4144a",
+    "file": "dev/hub/hub-2.17.3.bin",
+    "sha256": "531b30bdb624c6027313ccce3eaf85514204517320bd0035f92b8a8c281ea529",
     "size": 1511424,
-    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/dev/hub/hub-2.17.2.bin",
+    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/dev/hub/hub-2.17.3.bin",
     "usb": {
       "app_offset": "0x10000",
       "boot": [
         {
-          "file": "dev/usb/hub-2.17.2/bootloader.bin",
+          "file": "dev/usb/hub-2.17.3/bootloader.bin",
           "offset": "0x0",
           "sha256": "a536579f800b6fe00a9997c93c0f2450540f504ac10c1f32ee35fd177f966bb4",
           "size": 22624
         },
         {
-          "file": "dev/usb/hub-2.17.2/partition-table.bin",
+          "file": "dev/usb/hub-2.17.3/partition-table.bin",
           "offset": "0x8000",
           "sha256": "ace02503447d0f470692e65fa76002f2d77a92dc81cd3813d8aa66718d716da9",
           "size": 3072
         },
         {
-          "file": "dev/usb/hub-2.17.2/ota_data_initial.bin",
+          "file": "dev/usb/hub-2.17.3/ota_data_initial.bin",
           "offset": "0xe000",
           "sha256": "7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f",
           "size": 8192
         }
       ]
     },
-    "version": "2.17.2"
+    "version": "2.17.3"
   },
-  "issued": "2026-10-20T11:57:16Z",
+  "issued": "2026-10-21T11:46:51Z",
   "nodes": {
     "envnode": {
       "board": "mini_v2_2",
@@ -74,6 +74,6 @@
     }
   },
   "schema": 2,
-  "seq": 2,
+  "seq": 3,
   "window": ""
 }
