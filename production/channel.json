@@ -1,38 +1,38 @@
-3044022026057344af2f54ec870f9385e7ec2f34f49463a2211f8641ebf0000f8f5aafdf02204cb93dde2ef773466f5380b31eb09810235355a5d9c606fe84b4431df02fd994
+3046022100c8a01dc1dc5bd9d3d9af69e4f826563a4c30d3f20db4663f6ea893daf22bf9d0022100cc8f661017a3a8033034ec6ab7d862201b731d59850a49827c697425533e4806
 {
   "channel": "production",
   "hub": {
     "board": "nytthub-s3-v1",
-    "file": "production/hub/hub-2.17.4.bin",
-    "sha256": "d5114c59f663c819818eadb2f9c9d3ffeea57d667d6e3e33dcd72e2774b11929",
+    "file": "production/hub/hub-2.17.5.bin",
+    "sha256": "03b50bfda5cc00da8dbd9f441c7027c6baac0fc4e44eb6363663836275b75bad",
     "size": 1511424,
-    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/production/hub/hub-2.17.4.bin",
+    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/production/hub/hub-2.17.5.bin",
     "usb": {
       "app_offset": "0x10000",
       "boot": [
         {
-          "file": "production/usb/hub-2.17.4/bootloader.bin",
+          "file": "production/usb/hub-2.17.5/bootloader.bin",
           "offset": "0x0",
           "sha256": "a536579f800b6fe00a9997c93c0f2450540f504ac10c1f32ee35fd177f966bb4",
           "size": 22624
         },
         {
-          "file": "production/usb/hub-2.17.4/partition-table.bin",
+          "file": "production/usb/hub-2.17.5/partition-table.bin",
           "offset": "0x8000",
           "sha256": "ace02503447d0f470692e65fa76002f2d77a92dc81cd3813d8aa66718d716da9",
           "size": 3072
         },
         {
-          "file": "production/usb/hub-2.17.4/ota_data_initial.bin",
+          "file": "production/usb/hub-2.17.5/ota_data_initial.bin",
           "offset": "0xe000",
           "sha256": "7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f",
           "size": 8192
         }
       ]
     },
-    "version": "2.17.4"
+    "version": "2.17.5"
   },
-  "issued": "2026-10-23T16:15:23Z",
+  "issued": "2026-10-23T16:28:12Z",
   "nodes": {
     "envnode": {
       "board": "mini_v2_2",
@@ -74,6 +74,6 @@
     }
   },
   "schema": 2,
-  "seq": 2,
+  "seq": 3,
   "window": ""
 }
