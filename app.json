@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "versionName": "1.0.5",
+  "build": 6,
+  "notes": "Machine pages: MTConnect picture follows the machine type (lathe or milling machine, from its axes). New Current & IO page: status in plain words, animated power picture, phase balance, estimated power and energy, activity timeline.",
+  "released": "2026-10-24T06:22:30Z",
+  "apks": {
+    "arm64-v8a": {
+      "file": "nytt-1.0.5-arm64-v8a.apk",
+      "size": 20256653,
+      "sha256": "3c96178c8c7e62a3647fa75456f5e9fce4ff2d0f9462da51a23d965e20d4576a"
+    },
+    "armeabi-v7a": {
+      "file": "nytt-1.0.5-armeabi-v7a.apk",
+      "size": 17812825,
+      "sha256": "ad170e39e7865423c80c3ba7aa9b8785a40affe0888b6e725a08805a86dda1bb"
+    }
+  }
+}
