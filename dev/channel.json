@@ -1,38 +1,38 @@
-304402201cadc17b49bb5ff84814d996ab48b972e225668fe2e573abf03f5f8b5c8d97d402204ff06562853dc7937bb82ea2f26cb1530b5c771fe4908f58264859f36d1ea50b
+304402207162779cd7c1d4a47e91ce7b15dabcf9b11888baac1b5683427c8f9b360db2f502205f941c007d3ec94e9982bb67155ad28143e2e6c65affe5e2f3926f0479c5327f
 {
   "channel": "dev",
   "hub": {
     "board": "nytthub-s3-v1",
-    "file": "dev/hub/hub-2.17.3.bin",
-    "sha256": "531b30bdb624c6027313ccce3eaf85514204517320bd0035f92b8a8c281ea529",
+    "file": "dev/hub/hub-2.17.5.bin",
+    "sha256": "03b50bfda5cc00da8dbd9f441c7027c6baac0fc4e44eb6363663836275b75bad",
     "size": 1511424,
-    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/dev/hub/hub-2.17.3.bin",
+    "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/dev/hub/hub-2.17.5.bin",
     "usb": {
       "app_offset": "0x10000",
       "boot": [
         {
-          "file": "dev/usb/hub-2.17.3/bootloader.bin",
+          "file": "dev/usb/hub-2.17.5/bootloader.bin",
           "offset": "0x0",
           "sha256": "a536579f800b6fe00a9997c93c0f2450540f504ac10c1f32ee35fd177f966bb4",
           "size": 22624
         },
         {
-          "file": "dev/usb/hub-2.17.3/partition-table.bin",
+          "file": "dev/usb/hub-2.17.5/partition-table.bin",
           "offset": "0x8000",
           "sha256": "ace02503447d0f470692e65fa76002f2d77a92dc81cd3813d8aa66718d716da9",
           "size": 3072
         },
         {
-          "file": "dev/usb/hub-2.17.3/ota_data_initial.bin",
+          "file": "dev/usb/hub-2.17.5/ota_data_initial.bin",
           "offset": "0xe000",
           "sha256": "7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f",
           "size": 8192
         }
       ]
     },
-    "version": "2.17.3"
+    "version": "2.17.5"
   },
-  "issued": "2026-10-21T11:46:51Z",
+  "issued": "2026-10-26T04:25:16Z",
   "nodes": {
     "envnode": {
       "board": "mini_v2_2",
@@ -74,6 +74,6 @@
     }
   },
   "schema": 2,
-  "seq": 3,
+  "seq": 4,
   "window": ""
 }
