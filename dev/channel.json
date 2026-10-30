@@ -1,4 +1,4 @@
-304502205ff2a83d75f264049c2152d023be3169da9793ff25837aa61aa39b042ac3afaf022100d05878741227632706e09526e82ad595db6449530f924528e0fbb141af9991b7
+3045022100c803454a7dbdef33c24a5b6929dc8fc3185ad2c42613eed18a6e5d8a3832a9fa0220778512dcc7843d1f16bbe183ee6cf0c81625f52de4adf4e9f0f10c069b8a2c2f
 {
   "channel": "dev",
   "hub": {
@@ -32,7 +32,7 @@
     },
     "version": "2.17.5"
   },
-  "issued": "2026-10-30T11:53:53Z",
+  "issued": "2026-10-30T13:48:31Z",
   "nodes": {
     "envnode": {
       "board": "mini_v2_2",
@@ -55,25 +55,25 @@
     },
     "vibration": {
       "board": "mini_v2_1",
-      "file": "dev/nodes/vibration-3.2.1.bin",
-      "sha256": "90b7dd3865485ae3abd3b48913062ad7146c8b6cf1d62eeb6995fad5815c417e",
-      "size": 190940,
-      "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/dev/nodes/vibration-3.2.1.bin",
+      "file": "dev/nodes/vibration-3.2.2.bin",
+      "sha256": "288acfd343e6f921ac8f0eb4893734eff1a7ae60c1a2b21536a08bab4bf922f4",
+      "size": 192271,
+      "url": "https://raw.githubusercontent.com/arunasok702/nytt-firmware/main/dev/nodes/vibration-3.2.2.bin",
       "usb": {
         "app_offset": "0xc000",
         "boot": [
           {
-            "file": "dev/usb/vibration-3.2.1/mcuboot.bin",
+            "file": "dev/usb/vibration-3.2.2/mcuboot.bin",
             "offset": "0x0",
             "sha256": "27a66ed7e5f62af7a5a058412aadb6d9a80d4e525324199d51a9e3bef3208261",
             "size": 27992
           }
         ]
       },
-      "version": "3.2.1"
+      "version": "3.2.2"
     }
   },
   "schema": 2,
-  "seq": 8,
+  "seq": 9,
   "window": ""
 }
