@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "versionName": "1.0.10",
+  "build": 11,
+  "notes": "Vibration: quiet machines (such as an indoor AC fan) show as running again.",
+  "released": "2026-11-05T11:30:33Z",
+  "apks": {
+    "arm64-v8a": {
+      "file": "nytt-1.0.10-arm64-v8a.apk",
+      "size": 20257325,
+      "sha256": "4985644e87302ff529ec41fc85cf792514ec61098faf881946e9ee4e31050f4e"
+    },
+    "armeabi-v7a": {
+      "file": "nytt-1.0.10-armeabi-v7a.apk",
+      "size": 17895417,
+      "sha256": "d429c535bb0432cc7d701f8dcb07069fdfa8fd11963247c577d7d174737bf4b3"
+    }
+  }
+}
